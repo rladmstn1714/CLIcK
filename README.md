@@ -21,10 +21,6 @@ CLIcK benchmark is composed of 2 course-grained categories,Culture and Language,
     - Korean Law
     - Korean History
     - Korean Geography
-- Culture
-    - Korean Society
-    - Korean Tradition
-    - Korean Politic
 
 ### **Construction**
 
