@@ -35,6 +35,9 @@ We constructed the CLIcK in two human-centric ways;
     - The questions of following categories are uploaded, but they are not yet validated by human.
         - Language: Contextual Knowledge, Functional Knowledge
         - Culture: Korean Tradition, Korean Politics, Korean Economy, Korean Law,Korean History,Korean Geography
-    - The questions of following categories will be updated soon, with more official exam data.
-        - Language: Grammatical Knowledge, Sociallinguistic Knowledge
-        - Culture: Korean Tradition, Korean Politics, Korean Economy, Korean Law,Korean History,Korean Geography
+
+## TBD
+- The questions of following categories will be updated soon, with more official exam data.
+    - Language: Grammatical Knowledge, Sociallinguistic Knowledge
+    - Culture: Korean Tradition, Korean Politics, Korean Economy, Korean Law,Korean History,Korean Geography
+- The questions from each categories will be classified into two,high & low, based on difficulties.
