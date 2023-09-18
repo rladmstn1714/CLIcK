@@ -1,10 +1,10 @@
-# CLIcK:evaluation of Cultural and Linguistic Intelligence in Korean
+# CLICK: Evaluation of (C)ultural and (L)inguistic (I)ntelligen(C)e in (K)orean
 
-The CLIcK is the dataset for evaluating cultural and linguistic intelligence in Korean. It is known that LLMs are not working well in low resourced language, including Korean. To emphasize these problems, it is needed to figure out where LLMs works good and where they don’t in the view of culture and language. The CLIcK, which contains the well-categorized data from culture and language parts, can figure out those and find fine-grained limitations of LLMs in Korean.
+The CLICK is the dataset for evaluating cultural and linguistic intelligence in Korean. It is known that LLMs are not working well in low resourced language, including Korean. To emphasize these problems, it is needed to figure out where LLMs works good and where they don’t in the view of culture and language. The CLICK, which contains the well-categorized data from culture and language parts, can figure out those and find fine-grained limitations of LLMs in Korean.
 
 ## **Dataset Description**
 
-CLIcK benchmark is composed of 2 course-grained categories,Culture and Language, and 11 fine-grained categories. 
+CLICK benchmark is composed of 2 course-grained categories,Culture and Language, and 11 fine-grained categories. 
 
 ### Category
 
@@ -24,7 +24,7 @@ CLIcK benchmark is composed of 2 course-grained categories,Culture and Language,
 
 ### **Construction**
 
-We constructed the CLIcK in two human-centric ways;
+We constructed the CLICK in two human-centric ways;
 
 1. We utilized **official and well-designed exam data** and reclassified it according to our categories
 2. Based on the **official educational materials** from Korean Ministry of Justice, We let **ChatGPT** create questions. We will then validate the questions on our own.
