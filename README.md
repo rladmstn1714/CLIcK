@@ -12,7 +12,6 @@ CLICK benchmark is composed of 2 course-grained categories,Culture and Language,
     - Contextual Knowledge
     - Grammatical Knowledge
     - Functional Knowledge
-    - Sociallinguistic Knowledge
 - Culture
     - Korean Society
     - Korean Tradition
@@ -21,6 +20,7 @@ CLICK benchmark is composed of 2 course-grained categories,Culture and Language,
     - Korean Law
     - Korean History
     - Korean Geography
+    - Korean Pop culture
 
 ### **Construction**
 
