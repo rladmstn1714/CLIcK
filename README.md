@@ -39,8 +39,8 @@ We constructed the CLICK in two human-centric ways;
 │  │  ├─ Korean Economy
 │  │  │  └─ Economy_KIIP.json
 │  │  ├─ Korean Geography
-│  │  │  ├─ Geo_CSAT.json
-│  │  │  └─ Geo_KIIP.json
+│  │  │  ├─ Geography_CSAT.json
+│  │  │  └─ Geography_KIIP.json
 │  │  ├─ Korean History
 │  │  │  ├─ History_KHB.json
 │  │  │  └─ History_PSE.json
@@ -55,16 +55,16 @@ We constructed the CLICK in two human-centric ways;
 │  │     └─ Society_KIIP.json
 │  └─ Language
 │     ├─ Contextual
-│     │  ├─ context_CSAT.json
-│     │  └─ context_TOPIK.json
+│     │  ├─ Contextual_CSAT.json
+│     │  └─ Contextual_TOPIK.json
 │     ├─ Functional
-│     │  ├─ func_CSAT.json
-│     │  ├─ func_Kedu.json
-│     │  └─ func_PSE.json
+│     │  ├─ functional_CSAT.json
+│     │  ├─ functional_Kedu.json
+│     │  └─ functional_PSE.json
 │     └─ Grammar
-│        ├─ GR_CSAT.json
-│        ├─ GR_Kedu.json
-│        └─ GR_TOPIK.json
+│        ├─ Grammar_CSAT.json
+│        ├─ Grammar_Kedu.json
+│        └─ Grammar_TOPIK.json
 └─ README.md
 ```
 
