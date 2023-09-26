@@ -20,7 +20,7 @@ CLICK benchmark is composed of 2 course-grained categories,Culture and Language,
     - Korean Law
     - Korean History
     - Korean Geography
-    - Korean Pop culture
+    - Korean Popular Culture (Korean Popular)
 
 ### **Construction**
 
