@@ -58,9 +58,9 @@ We constructed the CLICK in two human-centric ways;
 │     │  ├─ Contextual_CSAT.json
 │     │  └─ Contextual_TOPIK.json
 │     ├─ Functional
-│     │  ├─ functional_CSAT.json
-│     │  ├─ functional_Kedu.json
-│     │  └─ functional_PSE.json
+│     │  ├─ Functional_CSAT.json
+│     │  ├─ Functional_Kedu.json
+│     │  └─ Functional_PSE.json
 │     └─ Grammar
 │        ├─ Grammar_CSAT.json
 │        ├─ Grammar_Kedu.json
