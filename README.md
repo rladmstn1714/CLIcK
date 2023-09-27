@@ -83,7 +83,8 @@ We constructed the CLICK in two human-centric ways;
 - KIIP : Korea Immigration & Integration Program, www.immigration.go.kr
 - CSAT : College Scholastic Ability Test for Korean, https://www.suneung.re.kr/
 - Kedu : Test of Teaching Korean as a Foreign Language exams, https://www.q-net.or.kr/man001.do?gSite=L&gId=36
-- PSE : Public Service Exam for 9 grad 
+- PSE : Public Service Exam for 9 grade 
+
 - TOPIK : Test of Proficiency in Korean, https://www.topik.go.kr/
 - KHB : Korean History Exam Basic, https://www.historyexam.go.kr/
 
