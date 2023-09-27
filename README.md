@@ -38,21 +38,30 @@ We constructed the CLICK in two human-centric ways;
 │  ├─ Culture
 │  │  ├─ Korean Economy
 │  │  │  └─ Economy_KIIP.json
+│  │  │  └─ Economy_Kedu.json
 │  │  ├─ Korean Geography
 │  │  │  ├─ Geography_CSAT.json
 │  │  │  └─ Geography_KIIP.json
+│  │  │  └─ Geography_Kedu.json
 │  │  ├─ Korean History
 │  │  │  ├─ History_KHB.json
 │  │  │  └─ History_PSE.json
+│  │  │  └─ History_Kedu.json
 │  │  ├─ Korean Law
 │  │  │  ├─ Law_KIIP.json
 │  │  │  └─ Law_PSAT.json
 │  │  ├─ Korean Politics
 │  │  │  └─ Politics_KIIP.json
+│  │  │  └─ Politics_Kedu.json
 │  │  ├─ Korean Pop culture
 │  │  │  └─ Pop_KIIP.json
+│  │  │  └─ Pop_Kedu.json
 │  │  └─ Korean Society
 │  │     └─ Society_KIIP.json
+│  │     └─ Society_Kedu.json
+│  │  └─ Korean Tradition
+│  │     └─ Tradition_KIIP.json
+│  │     └─ Tradition_Kedu.json
 │  └─ Language
 │     ├─ Contextual
 │     │  ├─ Contextual_CSAT.json
