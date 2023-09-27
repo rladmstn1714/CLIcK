@@ -1,4 +1,4 @@
-# CLICK: Evaluation of (C)ultural and (L)inguistic (I)ntelligen(C)e in (K)orean
+# CLICK: Evaluation of Cultural and Linguistic IntelligenCe in Korean
 
 The CLICK is the dataset for evaluating cultural and linguistic intelligence in Korean. It is known that LLMs are not working well in low resourced language, including Korean. To emphasize these problems, it is needed to figure out where LLMs works good and where they don’t in the view of culture and language. The CLICK, which contains the well-categorized data from culture and language parts, can figure out those and find fine-grained limitations of LLMs in Korean.
 
@@ -77,17 +77,26 @@ We constructed the CLICK in two human-centric ways;
 └─ README.md
 ```
 
+### Description of Exam code
+- KIIP : Korea Immigration & Integration Program, www.immigration.go.kr
+- CSAT : College Scholastic Ability Test for Korean, https://www.suneung.re.kr/
+- Kedu : Test of Teaching Korean as a Foreign Language exams, https://www.q-net.or.kr/man001.do?gSite=L&gId=36
+- PSE : Public Service Exam for 9 grad 
+- TOPIK : Test of Proficiency in Korean, https://www.topik.go.kr/
+- KHB : Korean History Exam Basic, https://www.historyexam.go.kr/
 
-
-## Current Status
+## Status
 
 - 230908 [Version 1] Upload
     - The questions of following categories are uploaded, but they are not yet validated by human.
         - Language: Contextual Knowledge, Functional Knowledge
         - Culture: Korean Tradition, Korean Politics, Korean Economy, Korean Law,Korean History,Korean Geography
+- 230925 [Version 2] Upload
+    - The questions of each category are all validated by 3 human annotators and uploaded.
+    - Data from all categories except culture/Korean tradition are uploaded.
+    - "Korean pop culture" is added as a new sub category of Korean culture.
+    - "Sociallinguistic" category is deleted. 
+-- 230927 [Version 3] Upload
+    - Data of culture/Korean tradition are uploaded.
+    - Additional data from 'Test of Teaching Korean as a Foreign Language exams' are added. 
 
-## TBD
-- The questions of following categories will be updated soon, with more official exam data.
-    - Language: Grammatical Knowledge, Sociallinguistic Knowledge
-    - Culture: Korean Tradition, Korean Politics, Korean Economy, Korean Law,Korean History,Korean Geography
-- The questions from each categories will be classified into two,high & low, based on difficulties.
