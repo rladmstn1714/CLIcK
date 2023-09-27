@@ -1,10 +1,12 @@
 # CLICK: Evaluation of Cultural and Linguistic IntelligenCe in Korean
 
-The CLICK is the dataset for evaluating cultural and linguistic intelligence in Korean. It is known that LLMs are not working well in low resourced language, including Korean. To emphasize these problems, it is needed to figure out where LLMs works good and where they don’t in the view of culture and language. The CLICK, which contains the well-categorized data from culture and language parts, can figure out those and find fine-grained limitations of LLMs in Korean.
+The CLICK is the dataset for evaluating cultural and linguistic intelligence in Korea.
+With the emergence of numerous LLMs trained on diverse corpora, comprehensive evaluation datasets for comparing them have become crucial. The same holds for Korean LLMs as Korean LLMs are continually released. However, there is no comprehensive open-sourced evaluation dataset for Koreans.
+The CLICK, which contains well-categorized data from culture and language parts, can figure out those and find fine-grained limitations of LLMs in Korean.
 
 ## **Dataset Description**
 
-CLICK benchmark is composed of 2 course-grained categories,Culture and Language, and 11 fine-grained categories. 
+CLICK benchmark is composed of 2 course-grained categories, Culture and Language, and 11 fine-grained categories. 
 
 ### Category
 
@@ -88,15 +90,15 @@ We constructed the CLICK in two human-centric ways;
 ## Status
 
 - 230908 [Version 1] Upload
-    - The questions of following categories are uploaded, but they are not yet validated by human.
+    - The questions of the following categories are uploaded, but they are not yet validated by humans.
         - Language: Contextual Knowledge, Functional Knowledge
-        - Culture: Korean Tradition, Korean Politics, Korean Economy, Korean Law,Korean History,Korean Geography
+        - Culture: Korean Tradition, Korean Politics, Korean Economy, Korean Law, Korean History, Korean Geography
 - 230925 [Version 2] Upload
     - The questions of each category are all validated by 3 human annotators and uploaded.
     - Data from all categories except culture/Korean tradition are uploaded.
-    - "Korean pop culture" is added as a new sub category of Korean culture.
+    - "Korean pop culture" is added as a new subcategory of Korean culture.
     - "Sociallinguistic" category is deleted. 
 - 230927 [Version 3] Upload
     - Data of culture/Korean tradition are uploaded.
-    - Additional data from 'Test of Teaching Korean as a Foreign Language exams' are added. 
+    - Additional data from the 'Test of Teaching Korean as a Foreign Language exams' are added. 
 
