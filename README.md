@@ -96,7 +96,7 @@ We constructed the CLICK in two human-centric ways;
     - Data from all categories except culture/Korean tradition are uploaded.
     - "Korean pop culture" is added as a new sub category of Korean culture.
     - "Sociallinguistic" category is deleted. 
--- 230927 [Version 3] Upload
+- 230927 [Version 3] Upload
     - Data of culture/Korean tradition are uploaded.
     - Additional data from 'Test of Teaching Korean as a Foreign Language exams' are added. 
 
