@@ -4,7 +4,7 @@
 		"paragraph": null,
 		"problems": [
 			{
-				"question": "<보기>를 참고하여 밑줄 친 두 단어의 의미를 한 단어에 담아 표현한 것으로 적절하지 않은 것은? <보기> 그는 손으로 방문을 <word start>세게 밀었다.<word end> (⇒밀쳤다) 어제는 서쪽 하늘이 <word start>몹시 붉었다.<word end> (⇒붉디붉었다)",
+				"question": "<보기>를 참고하여 밑줄 친 두 단어의 의미를 한 단어에 담아 표현한 것으로 적절하지 않은 것은?\n<보기> 그는 손으로 방문을 <word start>세게 밀었다.<word end> (⇒밀쳤다) 어제는 서쪽 하늘이 <word start>몹시 붉었다.<word end> (⇒붉디붉었다)",
 				"score": "",
 				"choices": [
 					"그 집은 <word start>매우 크다. <word end>(⇒커다랗다)",
