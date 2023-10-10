@@ -7,6 +7,8 @@ def load_exam(file_path):
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             data_list = json.load(file)
+            
+            exam_name = file_path.split(".json")[0].split("/")[-1]
 
             # Flatten the data structure
             flattened_data = {
@@ -23,10 +25,19 @@ def load_exam(file_path):
                         pid = f"{data['id']}_{problem['idx']}"
                     else:
                         pid = f"{data['id']}"
-
+                        
+                    paragraph = data["paragraph"]
+                    question = problem["question"]
+                    
+                    if exam_name.endswith("KIIP"):
+                        if "한국" not in question:
+                            paragraph = "한국과 관련된 다음 질문에 올바른 보기를 고르시오."
+                            question = paragraph + " " + question
+                        paragraph = ""
+                    
                     flattened_data["id"].append(pid)
-                    flattened_data["paragraph"].append(data["paragraph"])
-                    flattened_data["question"].append(problem["question"])
+                    flattened_data["paragraph"].append(paragraph)
+                    flattened_data["question"].append(question)
                     flattened_data["choices"].append(problem["choices"])
                     flattened_data["answer"].append(problem["answer"])
                     
@@ -49,23 +60,49 @@ def load_exam(file_path):
         print(f"Error decoding JSON from {file_path}.")
         return None
 
+
+def transform_instance(instance, mode=None):
+    
+    ret_val = {
+        'id': instance['id'],
+        'paragraph': instance['paragraph'],
+        'question': instance['question'],
+        'choices': instance['choices'],
+        'answer': instance['answer']
+    }
+    
+    return ret_val
+
+
 def load_dataset():
+    end_flag = False
     exam_dict = {}
     base_dir = os.path.dirname(os.path.abspath(__file__))
     
     for root, dirs, files in os.walk(base_dir):
         for file in files:
             if file.endswith(".json"):
-                file_path = os.path.join(root, file)
-                
-                if "KIIP" in file_path:
+                if file.endswith("_new.json"):
                     continue
+                file_path = os.path.join(root, file)
+                new_file_path = file_path.replace(".json", "_new.json")
                 
                 exam_name = file.split(".json")[0]
                 exam_data = load_exam(file_path)
-                exam_dict[exam_name] = exam_data
                 
+                mode = exam_name.split("_")[-1]
+                print(mode)
                 
+                new_exam_data = exam_data.map(transform_instance, mode)
+                new_exam_data.to_json(new_file_path, orient="records", lines=True, indent=4, force_ascii=False)
+                
+                # with open(new_file_path, "w", encoding="utf-8") as f:
+                #     json.dump(new_exam_data.to_dict(), f, ensure_ascii=False, indent=4)
+                    
+                # exam_dict[exam_name] = exam_data
+                print("Loading file:", file)
+                end_flag = True
+        
     return exam_dict
 
 dataset = load_dataset()
