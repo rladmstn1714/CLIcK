@@ -30,10 +30,23 @@ def load_exam(file_path):
                     question = problem["question"]
                     
                     if exam_name.endswith("KIIP"):
-                        if "한국" not in question:
-                            paragraph = "한국과 관련된 다음 질문에 올바른 보기를 고르시오."
-                            question = paragraph + " " + question
+                        paragraph = paragraph.replace("설명", "문제")
+                        question = paragraph + "\n" + question
                         paragraph = ""
+                    
+                    if exam_name.endswith("Kedu"):
+                        paragraph = paragraph.replace("설명", "문제")
+                        question = paragraph + "\n" + question
+                        paragraph = ""
+                    
+                    if exam_name.endswith("TOPIK"):
+                        question = question + "\n" + paragraph
+                        paragraph = ""
+                    
+                    if exam_name.endswith("KHB"):
+                        question = question + "\n" + paragraph
+                        paragraph = ""
+                    
                     
                     flattened_data["id"].append(pid)
                     flattened_data["paragraph"].append(paragraph)
