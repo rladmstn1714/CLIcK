@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "click"
+version = "0.1.0"
+description = ""
+authors = ["scottsuk0306 <scottsuk0306@kaist.ac.kr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+datasets = "^2.14.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
