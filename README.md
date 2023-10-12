@@ -86,6 +86,8 @@ We constructed the CLIcK in two human-centric ways;
 - PSE : Public Service Exam for 9 grade 
 - TOPIK : Test of Proficiency in Korean, https://www.topik.go.kr/
 - KHB : Korean History Exam Basic, https://www.historyexam.go.kr/
+- PSAT: To be added
+- KIIP: To be added
 
 ## Status
 
@@ -101,4 +103,8 @@ We constructed the CLIcK in two human-centric ways;
 - 230927 [Version 3] Upload
     - Data of culture/Korean tradition are uploaded.
     - Additional data from the 'Test of Teaching Korean as a Foreign Language exams' are added. 
+- 231012 [Version 4] Upload
+    - Cleaned overall data with organized json structure
+    - Renamed Contextual section to Textual section
+    - Deleted problems with incorrect format
 
