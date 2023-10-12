@@ -97,8 +97,13 @@ def load_dataset():
             if file.endswith(".json"):
                 if file.endswith("_new.json"):
                     continue
+                
+                if file != "Contextual_CSAT.json":
+                    continue
+                
+                print("Processing: ", file)
                 file_path = os.path.join(root, file)
-                new_file_path = file_path.replace(".json", "_new.json")
+                new_file_path = file_path.replace(".json", "_new_new.json")
                 
                 exam_name = file.split(".json")[0]
                 exam_data = load_exam(file_path)
