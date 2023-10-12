@@ -11,7 +11,7 @@ CLIcK benchmark is composed of 2 course-grained categories, Culture and Language
 ### Category
 
 - Language
-    - Contextual Knowledge
+    - Textual Knowledge
     - Grammatical Knowledge 
     - Functional Knowledge
 - Culture
@@ -65,9 +65,9 @@ We constructed the CLIcK in two human-centric ways;
 │  │     └─ Tradition_KIIP.json
 │  │     └─ Tradition_Kedu.json
 │  └─ Language
-│     ├─ Contextual
-│     │  ├─ Contextual_CSAT.json
-│     │  └─ Contextual_TOPIK.json
+│     ├─ Textual
+│     │  ├─ Textual_CSAT.json
+│     │  └─ Textual_TOPIK.json
 │     ├─ Functional
 │     │  ├─ Functional_CSAT.json
 │     │  ├─ Functional_Kedu.json
@@ -84,7 +84,6 @@ We constructed the CLIcK in two human-centric ways;
 - CSAT : College Scholastic Ability Test for Korean, https://www.suneung.re.kr/
 - Kedu : Test of Teaching Korean as a Foreign Language exams, https://www.q-net.or.kr/man001.do?gSite=L&gId=36
 - PSE : Public Service Exam for 9 grade 
-
 - TOPIK : Test of Proficiency in Korean, https://www.topik.go.kr/
 - KHB : Korean History Exam Basic, https://www.historyexam.go.kr/
 
