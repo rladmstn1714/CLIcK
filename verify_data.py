@@ -1,7 +1,7 @@
 import os
 import json
 
-file_path = "/mnt/sda/juyoung/CLICK/Dataset/Culture/Korean Society/Society_Kedu_new.json"
+file_path = "/mnt/sda/juyoung/CLICK/Dataset/Culture/Korean Tradition/Tradition_KIIP_new.json"
 
 with open(file_path, "r", encoding="utf-8") as file:
     data_list = json.load(file)
