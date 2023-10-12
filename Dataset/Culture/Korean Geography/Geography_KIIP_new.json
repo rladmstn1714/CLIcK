@@ -1,6 +1,6 @@
-
+[
     {
-        "id":"KIIP_geo_1",
+        "id":"KIIP_geography_1",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국에는 몇 개의 계절이 있나요?",
         "choices":[
@@ -10,10 +10,10 @@
             "5개"
         ],
         "answer":"4개"
-    }
+    },
 
     {
-        "id":"KIIP_geo_2",
+        "id":"KIIP_geography_2",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국의 봄 계절은 어떤 특징이 있나요?",
         "choices":[
@@ -23,10 +23,10 @@
             "추위가 찾아오진 않는다."
         ],
         "answer":"포근하고 따뜻하다"
-    }
+    },
 
     {
-        "id":"KIIP_geo_3",
+        "id":"KIIP_geography_3",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국에서 황사가 불어올 때 사람들의 대비로 옳지 않은 것은?",
         "choices":[
@@ -36,10 +36,10 @@
             "마스크를 착용한다"
         ],
         "answer":"우산을 쓴다"
-    }
+    },
 
     {
-        "id":"KIIP_geo_4",
+        "id":"KIIP_geography_4",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국의 여름 계절은 어떤 특징이 있나요?",
         "choices":[
@@ -49,10 +49,10 @@
             "무덥고 비가 많이 내린다"
         ],
         "answer":"무덥고 비가 많이 내린다"
-    }
+    },
 
     {
-        "id":"KIIP_geo_5",
+        "id":"KIIP_geography_5",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국의 가을 계절은 어떤 특징이 있나요?",
         "choices":[
@@ -62,10 +62,10 @@
             "눈이 많이 온다"
         ],
         "answer":"건조하고 화창하다"
-    }
+    },
 
     {
-        "id":"KIIP_geo_6",
+        "id":"KIIP_geography_6",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국의 늦은 가을에 거리에서 볼 수 있는 것은 무엇인가요?",
         "choices":[
@@ -75,10 +75,10 @@
             "낙엽"
         ],
         "answer":"낙엽"
-    }
+    },
 
     {
-        "id":"KIIP_geo_7",
+        "id":"KIIP_geography_7",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국의 겨울은 어떤 특성을 가지고 있는가?",
         "choices":[
@@ -88,10 +88,10 @@
             "포근하고 따뜻함"
         ],
         "answer":"춥고 건조하다"
-    }
+    },
 
     {
-        "id":"KIIP_geo_8",
+        "id":"KIIP_geography_8",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n2000년대 기준, 한국에서 겨울이 시작될 때 대부분의 가정에서 어떤 준비를 하는가?",
         "choices":[
@@ -101,10 +101,10 @@
             "단풍놀이를 준비한다"
         ],
         "answer":"김장을 담근다"
-    }
+    },
 
     {
-        "id":"KIIP_geo_9",
+        "id":"KIIP_geography_9",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국인들이 가을에 즐기는 활동은 무엇인가?",
         "choices":[
@@ -114,10 +114,10 @@
             "스키"
         ],
         "answer":"단풍놀이"
-    }
+    },
 
     {
-        "id":"KIIP_geo_10",
+        "id":"KIIP_geography_10",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국에서 여름에 주로 판매되는 상품은 무엇인가?",
         "choices":[
@@ -127,10 +127,10 @@
             "봄꽃놀이용품"
         ],
         "answer":"에어컨, 선풍기, 냉면"
-    }
+    },
 
     {
-        "id":"KIIP_geo_11",
+        "id":"KIIP_geography_11",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국에서 겨울에 주로 판매되는 상품은 무엇인가?",
         "choices":[
@@ -140,10 +140,10 @@
             "봄꽃놀이용품"
         ],
         "answer":"전기장판, 온풍기"
-    }
+    },
 
     {
-        "id":"KIIP_geo_12",
+        "id":"KIIP_geography_12",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n산경표는 누구에 의해 편찬되었나요?",
         "choices":[
@@ -153,10 +153,10 @@
             "조선"
         ],
         "answer":"신경준"
-    }
+    },
 
     {
-        "id":"KIIP_geo_13",
+        "id":"KIIP_geography_13",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n백두대간은 어디에서 어디까지 이르는 산줄기를 의미하나요?",
         "choices":[
@@ -166,10 +166,10 @@
             "지리산에서 한라산까지"
         ],
         "answer":"백두산에서 지리산까지"
-    }
+    },
 
     {
-        "id":"KIIP_geo_14",
+        "id":"KIIP_geography_14",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국의 지형 특성은 어떻게 설명될 수 있나요?",
         "choices":[
@@ -179,10 +179,10 @@
             "북쪽이 높고 남쪽이 낮다"
         ],
         "answer":"동쪽이 높고 서쪽이 낮다"
-    }
+    },
 
     {
-        "id":"KIIP_geo_15",
+        "id":"KIIP_geography_15",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국의 전체 국토 중 산이 차지하는 비율은 얼마나 됩니까?",
         "choices":[
@@ -192,10 +192,10 @@
             "10%"
         ],
         "answer":"65%"
-    }
+    },
 
     {
-        "id":"KIIP_geo_16",
+        "id":"KIIP_geography_16",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한반도의 등줄기로 불리는 산맥은 무엇인가요?",
         "choices":[
@@ -205,10 +205,10 @@
             "한라산맥"
         ],
         "answer":"태백산맥"
-    }
+    },
 
     {
-        "id":"KIIP_geo_17",
+        "id":"KIIP_geography_17",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n태백산맥에 위치한 대표적인 산으로 어떤 것들이 있나요?",
         "choices":[
@@ -218,10 +218,10 @@
             "지리산과 백두산"
         ],
         "answer":"설악산과 오대산"
-    }
+    },
 
     {
-        "id":"KIIP_geo_18",
+        "id":"KIIP_geography_18",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국에서 가장 높은 산은 어디에 위치해 있나요?",
         "choices":[
@@ -231,10 +231,10 @@
             "전라도"
         ],
         "answer":"제주도"
-    }
+    },
 
     {
-        "id":"KIIP_geo_19",
+        "id":"KIIP_geography_19",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국인의 주식인 쌀이 많이 생산되는 평야가 아닌 곳은?",
         "choices":[
@@ -244,10 +244,10 @@
             "강원평야"
         ],
         "answer":"강원평야"
-    }
+    },
 
     {
-        "id":"KIIP_geo_20",
+        "id":"KIIP_geography_20",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n해안선이 복잡하고 수심이 얕은 한반도의 지역은 어디인가?",
         "choices":[
@@ -257,10 +257,10 @@
             "동해안과 북해안"
         ],
         "answer":"남해안과 서해안"
-    }
+    },
 
     {
-        "id":"KIIP_geo_21",
+        "id":"KIIP_geography_21",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국에서 갯벌이 잘 발달한 지역은 어디인가?",
         "choices":[
@@ -270,10 +270,10 @@
             "동해안과 북해안"
         ],
         "answer":"서해안과 남해안"
-    }
+    },
 
     {
-        "id":"KIIP_geo_22",
+        "id":"KIIP_geography_22",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한반도의 어느 쪽이 바다에 접해 있어 다양한 해안 지형을 볼 수 있는가?",
         "choices":[
@@ -283,10 +283,10 @@
             "동쪽, 서쪽, 북쪽"
         ],
         "answer":"동쪽, 남쪽, 서쪽"
-    }
+    },
 
     {
-        "id":"KIIP_geo_23",
+        "id":"KIIP_geography_23",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국의 수도 서울이 처음으로 수도가 된 연도는 언제인가?",
         "choices":[
@@ -296,10 +296,10 @@
             "1492년"
         ],
         "answer":"1392년"
-    }
+    },
 
     {
-        "id":"KIIP_geo_24",
+        "id":"KIIP_geography_24",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n서울특별시는 몇 개의 자치구로 이루어져 있는가?",
         "choices":[
@@ -309,10 +309,10 @@
             "35개"
         ],
         "answer":"25개"
-    }
+    },
 
     {
-        "id":"KIIP_geo_25",
+        "id":"KIIP_geography_25",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n서울에서 한강을 기준으로 북쪽을 무엇이라고 부르는가?",
         "choices":[
@@ -322,10 +322,10 @@
             "강동"
         ],
         "answer":"강북"
-    }
+    },
 
     {
-        "id":"KIIP_geo_26",
+        "id":"KIIP_geography_26",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n2013년 12월말 기준 서울의 인구는 약 몇 명인가?",
         "choices":[
@@ -335,10 +335,10 @@
             "1014만 명"
         ],
         "answer":"1014만 명"
-    }
+    },
 
     {
-        "id":"KIIP_geo_27",
+        "id":"KIIP_geography_27",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n서울에 위치한 대규모 도매 시장 두 곳은 어디인가?",
         "choices":[
@@ -348,10 +348,10 @@
             "마포 농수산물 시장, 신림동 농수산물 시장"
         ],
         "answer":"남대문 시장, 노량진 수산 시장"
-    }
+    },
 
     {
-        "id":"KIIP_geo_28",
+        "id":"KIIP_geography_28",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n2010년대 기준 신도시가 계속해서 만들어지고 있는 지역은 어디인가?",
         "choices":[
@@ -361,10 +361,10 @@
             "경기도"
         ],
         "answer":"경기도"
-    }
+    },
 
     {
-        "id":"KIIP_geo_29",
+        "id":"KIIP_geography_29",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n수도권에 모여 있는 것은 무엇인가?",
         "choices":[
@@ -374,10 +374,10 @@
             "해변과 섬"
         ],
         "answer":"각종 기업과 학교"
-    }
+    },
 
     {
-        "id":"KIIP_geo_30",
+        "id":"KIIP_geography_30",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n차이나타운이 위치한 도시가 아닌 곳은?",
         "choices":[
@@ -387,10 +387,10 @@
             "광주"
         ],
         "answer":"광주"
-    }
+    },
 
     {
-        "id":"KIIP_geo_31",
+        "id":"KIIP_geography_31",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n인천 차이나타운은 어떤 문화와 풍습을 간직하고 있는가?",
         "choices":[
@@ -400,10 +400,10 @@
             "미국 고유의 문화와 풍습"
         ],
         "answer":"화교 고유의 문화와 풍습"
-    }
+    },
 
     {
-        "id":"KIIP_geo_32",
+        "id":"KIIP_geography_32",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n왜 매일 서울과 경기도를 오가는 사람들이 많은가?",
         "choices":[
@@ -413,10 +413,10 @@
             "서울과 경기도의 교육 수준이 높기 때문"
         ],
         "answer":"직장생활, 공부 등을 위해"
-    }
+    },
 
     {
-        "id":"KIIP_geo_33",
+        "id":"KIIP_geography_33",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n왜 분당, 일산, 군포 등에 신도시가 건설되었는가?",
         "choices":[
@@ -426,10 +426,10 @@
             "경기도의 교통 문제를 해결하기 위해"
         ],
         "answer":"서울의 인구 집중문제를 해결하기 위해"
-    }
+    },
 
     {
-        "id":"KIIP_geo_34",
+        "id":"KIIP_geography_34",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n경기도에서 어떤 산업이 발달하였나요?",
         "choices":[
@@ -439,10 +439,10 @@
             "금융업, 부동산업, 유통업"
         ],
         "answer":"서비스업, 공업, 농업"
-    }
+    },
 
     {
-        "id":"KIIP_geo_35",
+        "id":"KIIP_geography_35",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n서울을 제외하면 수도권에서 가장 큰 도시는 어디인가요?",
         "choices":[
@@ -452,10 +452,10 @@
             "수원"
         ],
         "answer":"인천"
-    }
+    },
 
     {
-        "id":"KIIP_geo_36",
+        "id":"KIIP_geography_36",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n20세기, 인천은 어떤 역할을 담당해 왔나요?",
         "choices":[
@@ -465,10 +465,10 @@
             "관광 도시"
         ],
         "answer":"항구 도시"
-    }
+    },
 
     {
-        "id":"KIIP_geo_37",
+        "id":"KIIP_geography_37",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국 최대의 공항은 어디인가요?",
         "choices":[
@@ -478,10 +478,10 @@
             "인천국제공항"
         ],
         "answer":"인천국제공항"
-    }
+    },
 
     {
-        "id":"KIIP_geo_38",
+        "id":"KIIP_geography_38",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n2014년에 어떤 대회가 인천에서 개최되었나요?",
         "choices":[
@@ -491,10 +491,10 @@
             "유니버시아드"
         ],
         "answer":"아시안게임"
-    }
+    },
 
     {
-        "id":"KIIP_geo_39",
+        "id":"KIIP_geography_39",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n강원도는 한반도의 어디에 위치해 있나요?",
         "choices":[
@@ -504,10 +504,10 @@
             "북쪽"
         ],
         "answer":"동쪽"
-    }
+    },
 
     {
-        "id":"KIIP_geo_40",
+        "id":"KIIP_geography_40",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n강원도의 동쪽 지역을 무엇이라고 부르나요?",
         "choices":[
@@ -517,10 +517,10 @@
             "영북 지방"
         ],
         "answer":"영동 지방"
-    }
+    },
 
     {
-        "id":"KIIP_geo_41",
+        "id":"KIIP_geography_41",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n강릉의 대표적인 문화유산은 무엇인가요?",
         "choices":[
@@ -530,10 +530,10 @@
             "삼척해변"
         ],
         "answer":"오죽헌"
-    }
+    },
 
     {
-        "id":"KIIP_geo_42",
+        "id":"KIIP_geography_42",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n강원도에는 어떤 시설이 많이 있나요?",
         "choices":[
@@ -543,10 +543,10 @@
             "축구장"
         ],
         "answer":"스키장"
-    }
+    },
 
     {
-        "id":"KIIP_geo_43",
+        "id":"KIIP_geography_43",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n강원도의 지형적 특성으로 인해 어떤 불편함이 있었나요?",
         "choices":[
@@ -556,10 +556,10 @@
             "상업활동의 어려움"
         ],
         "answer":"이동의 불편함"
-    }
+    },
 
     {
-        "id":"KIIP_geo_44",
+        "id":"KIIP_geography_44",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n강원도에 위치한 국립공원으로 지정된 산은 무엇인가요?",
         "choices":[
@@ -569,10 +569,10 @@
             "북한산"
         ],
         "answer":"설악산"
-    }
+    },
 
     {
-        "id":"KIIP_geo_45",
+        "id":"KIIP_geography_45",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n20세기에는 어떤 산업이 강원도에서 매우 발달했었나요?",
         "choices":[
@@ -582,10 +582,10 @@
             "제조업"
         ],
         "answer":"광산산업"
-    }
+    },
 
     {
-        "id":"KIIP_geo_46",
+        "id":"KIIP_geography_46",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n1993년에 대전에서 개최된 행사는 무엇인가요?",
         "choices":[
@@ -595,10 +595,10 @@
             "세계환경회의"
         ],
         "answer":"세계과학엑스포"
-    }
+    },
 
     {
-        "id":"KIIP_geo_47",
+        "id":"KIIP_geography_47",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n어느 지역에 백제시대 문화를 엿볼 수 있는 유적이 많은가?",
         "choices":[
@@ -608,10 +608,10 @@
             "강원도"
         ],
         "answer":"충청남도"
-    }
+    },
 
     {
-        "id":"KIIP_geo_48",
+        "id":"KIIP_geography_48",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n주요 행정부처의 일부가 이전한 도시는 어디인가?",
         "choices":[
@@ -621,10 +621,10 @@
             "울산"
         ],
         "answer":"세종"
-    }
+    },
 
     {
-        "id":"KIIP_geo_49",
+        "id":"KIIP_geography_49",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n충청북도에 위치한 철쭉이 많이 피어 많은 사람들이 찾는 산은 무엇인가?",
         "choices":[
@@ -634,10 +634,10 @@
             "북한산"
         ],
         "answer":"소백산"
-    }
+    },
 
     {
-        "id":"KIIP_geo_50",
+        "id":"KIIP_geography_50",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n충청북도는 어느 지역과 접하지 않는가?",
         "choices":[
@@ -647,10 +647,10 @@
             "경상북도"
         ],
         "answer":"전라남도"
-    }
+    },
 
     {
-        "id":"KIIP_geo_51",
+        "id":"KIIP_geography_51",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n백제의 도읍지(수도)로 기능했던 두 도시는 무엇인가요?",
         "choices":[
@@ -660,10 +660,10 @@
             "광주와 전주"
         ],
         "answer":"공주와 부여"
-    }
+    },
 
     {
-        "id":"KIIP_geo_52",
+        "id":"KIIP_geography_52",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n충청남도에서는 어떤 농작물이 주로 재배되나요?",
         "choices":[
@@ -673,10 +673,10 @@
             "토마토, 오이, 상추"
         ],
         "answer":"배, 포도, 사과"
-    }
+    },
 
     {
-        "id":"KIIP_geo_53",
+        "id":"KIIP_geography_53",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n충청지역의 대표적인 대도시는 어디인가요?",
         "choices":[
@@ -686,10 +686,10 @@
             "인천"
         ],
         "answer":"대전"
-    }
+    },
 
     {
-        "id":"KIIP_geo_54",
+        "id":"KIIP_geography_54",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n대전에서는 어떤 산업단지가 중요한 역할을 담당하고 있나요?",
         "choices":[
@@ -699,10 +699,10 @@
             "의료 산업단지"
         ],
         "answer":"과학 산업단지"
-    }
+    },
 
     {
-        "id":"KIIP_geo_55",
+        "id":"KIIP_geography_55",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n경상지역은 한국의 어느 방향에 위치해 있나요?",
         "choices":[
@@ -712,10 +712,10 @@
             "동남쪽"
         ],
         "answer":"동남쪽"
-    }
+    },
 
     {
-        "id":"KIIP_geo_56",
+        "id":"KIIP_geography_56",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n경상지역에는 어떤 도시들이 포함되어 있나요?",
         "choices":[
@@ -725,10 +725,10 @@
             "청주, 대전, 세종"
         ],
         "answer":"부산, 대구, 울산"
-    }
+    },
 
     {
-        "id":"KIIP_geo_57",
+        "id":"KIIP_geography_57",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n경상지역에 속해 있는 섬은 무엇인가요?",
         "choices":[
@@ -738,10 +738,10 @@
             "울릉도와 월미도"
         ],
         "answer":"독도와 울릉도"
-    }
+    },
 
     {
-        "id":"KIIP_geo_58",
+        "id":"KIIP_geography_58",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n경상지역에서는 어떤 산업이 발달했나요?",
         "choices":[
@@ -751,10 +751,10 @@
             "공업"
         ],
         "answer":"공업"
-    }
+    },
 
     {
-        "id":"KIIP_geo_59",
+        "id":"KIIP_geography_59",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n구미 지역에서는 어떤 산업이 크게 발달했나요?",
         "choices":[
@@ -764,10 +764,10 @@
             "광업과 제조업"
         ],
         "answer":"섬유와 전자 산업"
-    }
+    },
 
     {
-        "id":"KIIP_geo_60",
+        "id":"KIIP_geography_60",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n포항과 울산에서는 어떤 산업이 대표적인가요?",
         "choices":[
@@ -777,10 +777,10 @@
             "광업과 제조업"
         ],
         "answer":"제철소와 조선소 및 자동차 공장"
-    }
+    },
 
     {
-        "id":"KIIP_geo_61",
+        "id":"KIIP_geography_61",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n부산에서는 어떤 국제적인 행사가 열리나요?",
         "choices":[
@@ -790,10 +790,10 @@
             "부산 국제문학제"
         ],
         "answer":"부산 국제영화제"
-    }
+    },
 
     {
-        "id":"KIIP_geo_62",
+        "id":"KIIP_geography_62",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n경주는 어떤 시대의 문화유산이 많이 남아 있는가요?",
         "choices":[
@@ -803,10 +803,10 @@
             "조선"
         ],
         "answer":"신라"
-    }
+    },
 
     {
-        "id":"KIIP_geo_63",
+        "id":"KIIP_geography_63",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n안동 지방은 어떤 시대의 문화유산이 많이 남아 있는가요?",
         "choices":[
@@ -816,10 +816,10 @@
             "조선"
         ],
         "answer":"조선"
-    }
+    },
 
     {
-        "id":"KIIP_geo_64",
+        "id":"KIIP_geography_64",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n2002년에 부산에서 개최된 행사는 무엇인가요?",
         "choices":[
@@ -829,10 +829,10 @@
             "한류 드라마 촬영"
         ],
         "answer":"아시안 게임"
-    }
+    },
 
     {
-        "id":"KIIP_geo_65",
+        "id":"KIIP_geography_65",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n2013년에 대구에서 개최된 행사는 무엇인가요?",
         "choices":[
@@ -842,10 +842,10 @@
             "한류 드라마 촬영"
         ],
         "answer":"세계육상선수권대회"
-    }
+    },
 
     {
-        "id":"KIIP_geo_66",
+        "id":"KIIP_geography_66",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n부산에서 BIFF 광장이 위치한 곳은 어디인가요?",
         "choices":[
@@ -855,10 +855,10 @@
             "기장"
         ],
         "answer":"남포동"
-    }
+    },
 
     {
-        "id":"KIIP_geo_67",
+        "id":"KIIP_geography_67",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n제주도의 가장 높은 산은 무엇인가요?",
         "choices":[
@@ -868,10 +868,10 @@
             "한라산"
         ],
         "answer":"한라산"
-    }
+    },
 
     {
-        "id":"KIIP_geo_68",
+        "id":"KIIP_geography_68",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n제주도에는 대략 몇 개의 오름이 있는가요?",
         "choices":[
@@ -881,10 +881,10 @@
             "1000개"
         ],
         "answer":"300개"
-    }
+    },
 
     {
-        "id":"KIIP_geo_69",
+        "id":"KIIP_geography_69",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n제주도는 어떤 기구의 세계자연유산으로 선정되었나요?",
         "choices":[
@@ -894,10 +894,10 @@
             "세계무역기구"
         ],
         "answer":"유네스코"
-    }
+    },
 
     {
-        "id":"KIIP_geo_70",
+        "id":"KIIP_geography_70",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n제주 화산섬과 용암동굴에 포함되지 않는 것은 무엇인가요?",
         "choices":[
@@ -907,10 +907,10 @@
             "남산"
         ],
         "answer":"남산"
-    }
+    },
 
     {
-        "id":"KIIP_geo_71",
+        "id":"KIIP_geography_71",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n전라지역은 어느 방향에 위치해 있나요?",
         "choices":[
@@ -920,10 +920,10 @@
             "동남부"
         ],
         "answer":"서남부"
-    }
+    },
 
     {
-        "id":"KIIP_geo_72",
+        "id":"KIIP_geography_72",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n전주는 어떤 건물이 잘 보존되어 유명한가요?",
         "choices":[
@@ -933,10 +933,10 @@
             "학교"
         ],
         "answer":"전통한옥"
-    }
+    },
 
     {
-        "id":"KIIP_geo_73",
+        "id":"KIIP_geography_73",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n다음 중 광주광역시와 광양시에서 발달한 공업은 무엇인가요?",
         "choices":[
@@ -946,10 +946,10 @@
             "식품과 음료"
         ],
         "answer":"자동차와 제철"
-    }
+    },
 
     {
-        "id":"KIIP_geo_74",
+        "id":"KIIP_geography_74",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n2010년대에 전라지역의 발전에 기여한 요인이 아닌 것은?",
         "choices":[
@@ -959,10 +959,10 @@
             "전라지역 특산물의 홍보"
         ],
         "answer":"전라지역 특산물의 홍보"
-    }
+    },
 
     {
-        "id":"KIIP_geo_75",
+        "id":"KIIP_geography_75",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n한국에서 가장 큰 섬은 어디인가요?",
         "choices":[
@@ -972,10 +972,10 @@
             "거제도"
         ],
         "answer":"제주도"
-    }
+    },
 
     {
-        "id":"KIIP_geo_76",
+        "id":"KIIP_geography_76",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n남한에서 가장 높은 산은 어디인가요?",
         "choices":[
@@ -985,10 +985,10 @@
             "한라산"
         ],
         "answer":"한라산"
-    }
+    },
 
     {
-        "id":"KIIP_geo_77",
+        "id":"KIIP_geography_77",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n예로부터 제주지역은 많다고 유명하여 관련 이야기가 많이 전해져 내려오는 대상은?",
         "choices":[
@@ -998,10 +998,10 @@
             "해녀, 돌담, 유채꽃"
         ],
         "answer":"바람, 돌, 여자"
-    }
+    },
 
     {
-        "id":"KIIP_geo_78",
+        "id":"KIIP_geography_78",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n제주도가 한국의 대표적인 관광지가 된 이유가 아닌것은?",
         "choices":[
@@ -1011,10 +1011,10 @@
             "저렴한 숙박시설과 편리한 교통"
         ],
         "answer":"아름다운 자연경관과 따뜻한 날씨"
-    }
+    },
 
     {
-        "id":"KIIP_geo_79",
+        "id":"KIIP_geography_79",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n강화도 갯벌은 어느 도시에 속해 있나요?",
         "choices":[
@@ -1024,10 +1024,10 @@
             "대구"
         ],
         "answer":"인천"
-    }
+    },
 
     {
-        "id":"KIIP_geo_80",
+        "id":"KIIP_geography_80",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n아름다운 모래사장이 많은 지역은 어디인가요?",
         "choices":[
@@ -1037,10 +1037,10 @@
             "충청지역의 북해안"
         ],
         "answer":"강원지역의 동해안"
-    }
+    },
 
     {
-        "id":"KIIP_geo_81",
+        "id":"KIIP_geography_81",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n국내 최대의 자연 늪지인 우포늪은 어느 지역에 위치해 있나요?",
         "choices":[
@@ -1050,10 +1050,10 @@
             "전라지역"
         ],
         "answer":"경상지역"
-    }
+    },
 
     {
-        "id":"KIIP_geo_82",
+        "id":"KIIP_geography_82",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n다음 중 충청북도 단양에 위치한 관광명소는 무엇인가요?",
         "choices":[
@@ -1063,10 +1063,10 @@
             "강화도 갯벌"
         ],
         "answer":"고수동굴"
-    }
+    },
 
     {
-        "id":"KIIP_geo_83",
+        "id":"KIIP_geography_83",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n청계천은 어느 도시의 관광명소인가요?",
         "choices":[
@@ -1076,10 +1076,10 @@
             "인천"
         ],
         "answer":"서울"
-    }
+    },
 
     {
-        "id":"KIIP_geo_84",
+        "id":"KIIP_geography_84",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n다음 중 남원에서 열리는 축제는 무엇인가요?",
         "choices":[
@@ -1089,10 +1089,10 @@
             "춘향제"
         ],
         "answer":"춘향제"
-    }
+    },
 
     {
-        "id":"KIIP_geo_85",
+        "id":"KIIP_geography_85",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n이천에서 열리는 유명한 축제는 무엇인가?",
         "choices":[
@@ -1102,10 +1102,10 @@
             "세계 미술 박람회"
         ],
         "answer":"세계 도자기 엑스포"
-    }
+    },
 
     {
-        "id":"KIIP_geo_86",
+        "id":"KIIP_geography_86",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n고양시에서 열리는 유명한 축제는 무엇인가?",
         "choices":[
@@ -1115,10 +1115,10 @@
             "세계 미술 박람회"
         ],
         "answer":"세계 꽃 박람회"
-    }
+    },
 
     {
-        "id":"KIIP_geo_87",
+        "id":"KIIP_geography_87",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n매년 가을에 열리는 어떤 행사가 예약을 해야만 관람이 가능한가?",
         "choices":[
@@ -1128,10 +1128,10 @@
             "세계 도자기 엑스포"
         ],
         "answer":"경복궁, 창덕궁, 덕수궁의 야간개장 행사"
-    }
+    },
 
     {
-        "id":"KIIP_geo_88",
+        "id":"KIIP_geography_88",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n대관령과 태백산에서 겨울에 열리는 축제는 무엇인가요?",
         "choices":[
@@ -1141,10 +1141,10 @@
             "머드 축제"
         ],
         "answer":"눈꽃 축제"
-    }
+    },
 
     {
-        "id":"KIIP_geo_89",
+        "id":"KIIP_geography_89",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n충청남도 부여군과 공주시에서 매년 개최하는 축제는 무엇인가요?",
         "choices":[
@@ -1154,10 +1154,10 @@
             "머드 축제"
         ],
         "answer":"백제 문화제"
-    }
+    },
 
     {
-        "id":"KIIP_geo_90",
+        "id":"KIIP_geography_90",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n울릉도에서 열리는 축제는 무엇인가요?",
         "choices":[
@@ -1167,10 +1167,10 @@
             "탈춤 페스티벌"
         ],
         "answer":"오징어 축제"
-    }
+    },
 
     {
-        "id":"KIIP_geo_91",
+        "id":"KIIP_geography_91",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n전라지역에서 열리는 음식 문화와 관련된 축제는 무엇인가요?",
         "choices":[
@@ -1180,10 +1180,10 @@
             "울릉도 오징어 축제"
         ],
         "answer":"남도 음식 문화 큰잔치"
-    }
+    },
 
     {
-        "id":"KIIP_geo_92",
+        "id":"KIIP_geography_92",
         "paragraph":"",
         "question":"다음은 한국의 지리에 대한 문제이다.\n전라남도에서 열리는 해넘이해맞이 축제는 어디에서 열리나요?",
         "choices":[
@@ -1195,3 +1195,4 @@
         "answer":"땅 끝 마을"
     }
 
+]
