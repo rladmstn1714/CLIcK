@@ -1,12 +1,13 @@
 import os
 import json
 
-file_path = "/mnt/sda/juyoung/CLICK/Dataset/Culture/Korean Law/Law_PSAT_new.json"
+file_path = "/mnt/sda/juyoung/CLICK/Dataset/Culture/Korean Popular/Popular_KIIP_new.json"
 
 with open(file_path, "r", encoding="utf-8") as file:
     data_list = json.load(file)
     
 # print(data_list)
+print(file_path.split("/")[-1])
 print(len(data_list))
 
 ids = []
