@@ -1,7 +1,7 @@
 import os
 import json
 
-file_path = "/mnt/sda/juyoung/CLICK/Dataset/Language/Functional/Functional_CSAT_new.json"
+file_path = "./CLICK/Dataset/Language/Grammar/Grammar_TOPIK_new.json"
 # new_file_path = "/mnt/sda/juyoung/CLICK/Dataset/Language/Contextual/Contextual_TOPIK_new_new.json"
 
 with open(file_path, "r", encoding="utf-8") as file:
