@@ -1,110 +1,54 @@
 # CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean
 
-The CLIcK is the dataset for evaluating cultural and linguistic intelligence in Korea.
-With the emergence of numerous LLMs trained on diverse corpora, comprehensive evaluation datasets for comparing them have become crucial. The same holds for Korean LLMs as Korean LLMs are continually released. However, there is no comprehensive open-sourced evaluation dataset for Koreans.
-The CLIcK, which contains well-categorized data from culture and language parts, can figure out those and find fine-grained limitations of LLMs in Korean.
+## Introduction
+CLIcK (Cultural and Linguistic Intelligence in Korean) is a comprehensive dataset designed to evaluate cultural and linguistic intelligence in the context of Korean language models. In an era where diverse language models are continually emerging, there is a pressing need for robust evaluation datasets, especially for non-English languages like Korean. CLIcK fills this gap by providing a rich, well-categorized dataset focusing on both cultural and linguistic aspects, enabling a nuanced assessment of Korean language models.
 
-## **Dataset Description**
+## Dataset Description
+The CLIcK benchmark comprises two broad categories: Culture and Language, which are further divided into 11 fine-grained subcategories.
 
-CLIcK benchmark is composed of 2 course-grained categories, Culture and Language, and 11 fine-grained categories. 
+### Categories
+- **Language**
+  - Textual Knowledge
+  - Grammatical Knowledge
+  - Functional Knowledge
+- **Culture**
+  - Korean Society
+  - Korean Tradition
+  - Korean Politics
+  - Korean Economy
+  - Korean Law
+  - Korean History
+  - Korean Geography
+  - Korean Popular Culture (K-Pop)
 
-### Category
-
-- Language
-    - Textual Knowledge
-    - Grammatical Knowledge 
-    - Functional Knowledge
-- Culture
-    - Korean Society
-    - Korean Tradition
-    - Korean Politics
-    - Korean Economy
-    - Korean Law
-    - Korean History
-    - Korean Geography
-    - Korean Popular Culture (Korean Popular)
-
-### **Construction**
-
-We constructed the CLIcK in two human-centric ways;
-
-1. We utilized **official and well-designed exam data** and reclassified it according to our categories
-2. Based on the **official educational materials** from Korean Ministry of Justice, We let **ChatGPT** create questions. We will then validate the questions on our own.
-
+### Construction
+CLIcK was developed using two human-centric approaches:
+1. Reclassification of **official and well-designed exam data** into our defined categories.
+2. Generation of questions using ChatGPT, based on **official educational materials** from the Korean Ministry of Justice, followed by our own validation process.
 
 ### Structure
+The dataset is organized as follows, with each subcategory containing relevant JSON files:
 ```
-📦 
-├─ .gitignore
-├─ Dataset
-│  ├─ Culture
-│  │  ├─ Korean Economy
-│  │  │  └─ Economy_KIIP.json
-│  │  │  └─ Economy_Kedu.json
-│  │  ├─ Korean Geography
-│  │  │  ├─ Geography_CSAT.json
-│  │  │  └─ Geography_KIIP.json
-│  │  │  └─ Geography_Kedu.json
-│  │  ├─ Korean History
-│  │  │  ├─ History_KHB.json
-│  │  │  └─ History_PSE.json
-│  │  │  └─ History_Kedu.json
-│  │  ├─ Korean Law
-│  │  │  ├─ Law_KIIP.json
-│  │  │  └─ Law_PSAT.json
-│  │  ├─ Korean Politics
-│  │  │  └─ Politics_KIIP.json
-│  │  │  └─ Politics_Kedu.json
-│  │  ├─ Korean Pop culture
-│  │  │  └─ Pop_KIIP.json
-│  │  │  └─ Pop_Kedu.json
-│  │  └─ Korean Society
-│  │     └─ Society_KIIP.json
-│  │     └─ Society_Kedu.json
-│  │  └─ Korean Tradition
-│  │     └─ Tradition_KIIP.json
-│  │     └─ Tradition_Kedu.json
-│  └─ Language
-│     ├─ Textual
-│     │  ├─ Textual_CSAT.json
-│     │  └─ Textual_TOPIK.json
-│     ├─ Functional
-│     │  ├─ Functional_CSAT.json
-│     │  ├─ Functional_Kedu.json
-│     │  └─ Functional_PSE.json
-│     └─ Grammar
-│        ├─ Grammar_CSAT.json
-│        ├─ Grammar_Kedu.json
-│        └─ Grammar_TOPIK.json
-└─ README.md
+📦CLIcK
+ └─ Dataset
+    ├─ Culture
+    │  ├─ [Each cultural subcategory with associated JSON files]
+    └─ Language
+       ├─ [Each language subcategory with associated JSON files]
 ```
 
-### Description of Exam code
-- KIIP : Korea Immigration & Integration Program, www.immigration.go.kr
-- CSAT : College Scholastic Ability Test for Korean, https://www.suneung.re.kr/
-- Kedu : Test of Teaching Korean as a Foreign Language exams, https://www.q-net.or.kr/man001.do?gSite=L&gId=36
-- PSE : Public Service Exam for 9 grade 
-- TOPIK : Test of Proficiency in Korean, https://www.topik.go.kr/
-- KHB : Korean History Exam Basic, https://www.historyexam.go.kr/
-- PSAT: To be added
-- KIIP: To be added
+### Exam Code Descriptions
+- KIIP: Korea Immigration & Integration Program ([Website](www.immigration.go.kr))
+- CSAT: College Scholastic Ability Test for Korean ([Website](https://www.suneung.re.kr/))
+- Kedu: Test of Teaching Korean as a Foreign Language exams ([Website](https://www.q-net.or.kr/man001.do?gSite=L&gId=36))
+- PSE: Public Service Exam for 9th grade
+- TOPIK: Test of Proficiency in Korean ([Website](https://www.topik.go.kr/))
+- KHB: Korean History Exam Basic ([Website](https://www.historyexam.go.kr/))
+- PSAT: [To be added]
+- KIIP: [To be added]
 
-## Status
-
-- 230908 [Version 1] Upload
-    - The questions of the following categories are uploaded, but they are not yet validated by humans.
-        - Language: Contextual Knowledge, Functional Knowledge
-        - Culture: Korean Tradition, Korean Politics, Korean Economy, Korean Law, Korean History, Korean Geography
-- 230925 [Version 2] Upload
-    - The questions of each category are all validated by 3 human annotators and uploaded.
-    - Data from all categories except culture/Korean tradition are uploaded.
-    - "Korean pop culture" is added as a new subcategory of Korean culture.
-    - "Sociallinguistic" category is deleted. 
-- 230927 [Version 3] Upload
-    - Data of culture/Korean tradition are uploaded.
-    - Additional data from the 'Test of Teaching Korean as a Foreign Language exams' are added. 
-- 231012 [Version 4] Upload
-    - Cleaned overall data with organized json structure
-    - Renamed Contextual section to Textual section
-    - Deleted problems with incorrect format
-
+## Version History
+- **Version 1 (230908):** Initial upload. Questions in selected categories uploaded, pending human validation.
+- **Version 2 (230925):** All category questions validated by 3 human annotators. Addition of "Korean pop culture" subcategory. Removal of "Sociallinguistic" category.
+- **Version 3 (230927):** Upload of culture/Korean tradition data. Inclusion of data from the 'Test of Teaching Korean as a Foreign Language exams'.
+- **Version 4 (231012):** Data reorganization and format cleaning. Renaming of the Contextual section to Textual. Removal of incorrectly formatted questions.
