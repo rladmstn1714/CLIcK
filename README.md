@@ -67,7 +67,6 @@ The dataset is organized as follows, with each subcategory containing relevant J
 - TOPIK: Test of Proficiency in Korean ([Website](https://www.topik.go.kr/))
 - KHB: Korean History Exam Basic ([Website](https://www.historyexam.go.kr/))
 - PSAT: Public Service Aptitude Test in Korea
-- KIIP: Korea Immigration & Integration Program
 
 ## Results
 
