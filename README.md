@@ -2,7 +2,7 @@
   <h1>CLIcK 🇰🇷🧠</h1>
   <p>Evaluation of Cultural and Linguistic Intelligence in Korean</p>
   <p>
-    <a href="https://huggingface.co/datasets/your_username/CLIcK"><img src="https://img.shields.io/badge/Dataset-CLIcK-blue" alt="Dataset"></a>
+    <a href="https://huggingface.co/datasets/scottsuk0306/CLIcK"><img src="https://img.shields.io/badge/Dataset-CLIcK-blue" alt="Dataset"></a>
     <a href="https://arxiv.org/abs/2403.06412"><img src="https://img.shields.io/badge/Paper-LREC--COLING-green" alt="Paper"></a>
     <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey" alt="License"></a>
   </p>
@@ -82,11 +82,13 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 If you use CLIcK in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{your_paper_citation,
-  title={CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of LREC-COLING},
-  year={2023}
+@misc{kim2024click,
+      title={CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean}, 
+      author={Eunsu Kim and Juyoung Suk and Philhoon Oh and Haneul Yoo and James Thorne and Alice Oh},
+      year={2024},
+      eprint={2403.06412},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
