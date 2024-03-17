@@ -2,9 +2,8 @@
   <h1>CLIcK 🇰🇷🧠</h1>
   <p>Evaluation of Cultural and Linguistic Intelligence in Korean</p>
   <p>
-    <a href="https://huggingface.co/datasets/scottsuk0306/CLIcK"><img src="https://img.shields.io/badge/Dataset-CLIcK-blue" alt="Dataset"></a>
+    <a href="https://huggingface.co/datasets/your_username/CLIcK"><img src="https://img.shields.io/badge/Dataset-CLIcK-blue" alt="Dataset"></a>
     <a href="https://arxiv.org/abs/2403.06412"><img src="https://img.shields.io/badge/Paper-LREC--COLING-green" alt="Paper"></a>
-    <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey" alt="License"></a>
   </p>
 </div>
 
@@ -38,6 +37,7 @@ The CLIcK benchmark comprises two broad categories: Culture and Language, which 
   - Korean Geography
   - Korean Popular Culture (K-Pop)
 
+
 ### Construction 🏗️
 
 CLIcK was developed using two human-centric approaches:
@@ -69,13 +69,29 @@ The dataset is organized as follows, with each subcategory containing relevant J
 - PSAT: Public Service Aptitude Test in Korea
 - KIIP: Korea Immigration & Integration Program
 
+## Results
+
+| Models            | Average Accuracy (Korean Culture) | Average Accuracy (Korean Language) |
+|-------------------|-----------------------------------|------------------------------------|
+| Polyglot-Ko 1.3B  | 32.71%                            | 22.88%                             |
+| Polyglot-Ko 3.8B  | 32.90%                            | 22.38%                             |
+| Polyglot-Ko 5.8B  | 33.14%                            | 23.27%                             |
+| Polyglot-Ko 12.8B | 33.40%                            | 22.24%                             |
+| KULLM 5.8B        | 33.79%                            | 23.50%                             |
+| KULLM 12.8B       | 33.51%                            | 23.78%                             |
+| KoAlpaca 5.8B     | 32.33%                            | 23.87%                             |
+| KoAlpaca 12.8B    | 33.80%                            | 22.42%                             |
+| LLaMA-Ko 7B       | 33.26%                            | 25.69%                             |
+| LLaMA 7B          | 35.44%                            | 27.17%                             |
+| LLaMA 13B         | **36.22%**                        | **26.71%**                         |
+| GPT-3.5           | 49.30%                            | 42.32%                             |
+| Claude2           | **51.72%**                        | **45.39%**                         |
+
+
 ## Dataset Link 🔗
 
 The CLIcK dataset is available on the Hugging Face Hub: [CLIcK Dataset](https://huggingface.co/datasets/your_username/CLIcK)
 
-## License 📜
-
-This dataset is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Citation 📝
 
@@ -94,4 +110,4 @@ If you use CLIcK in your research, please cite our paper:
 
 ## Contact 📧
 
-For any questions or inquiries, please contact [your_email@example.com](mailto:your_email@example.com).
+For any questions or inquiries, please contact [kes0317@kaist.ac.kr](mailto:kes0317@kaist.ac.kr).
