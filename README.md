@@ -15,7 +15,8 @@ CLIcK (Cultural and Linguistic Intelligence in Korean) is a comprehensive datase
 ## News 📰
 
 - **[LREC-COLING]** Our paper introducing CLIcK has been accepted to LREC-COLING 2024!🎉
-
+- **[3/20]** We revise some grammatical errors in the dataset. Test with the new version of CLIcK!
+  
 ## Dataset Description 📊
 
 The CLIcK benchmark comprises two broad categories: Culture and Language, which are further divided into 11 fine-grained subcategories.
