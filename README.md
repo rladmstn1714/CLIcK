@@ -2,7 +2,7 @@
   <h1>CLIcK 🇰🇷🧠</h1>
   <p>Evaluation of Cultural and Linguistic Intelligence in Korean</p>
   <p>
-    <a href="https://huggingface.co/datasets/your_username/CLIcK"><img src="https://img.shields.io/badge/Dataset-CLIcK-blue" alt="Dataset"></a>
+    <a href="https://huggingface.co/datasets/EunsuKim/CLIcK"><img src="https://img.shields.io/badge/Dataset-CLIcK-blue" alt="Dataset"></a>
     <a href="https://arxiv.org/abs/2403.06412"><img src="https://img.shields.io/badge/Paper-LREC--COLING-green" alt="Paper"></a>
   </p>
 </div>
@@ -15,7 +15,8 @@ CLIcK (Cultural and Linguistic Intelligence in Korean) is a comprehensive datase
 ## News 📰
 
 - **[LREC-COLING]** Our paper introducing CLIcK has been accepted to LREC-COLING 2024!🎉
-
+- **[3/20]** We revise some grammatical errors in the dataset. Test with the new version of CLIcK!
+  
 ## Dataset Description 📊
 
 The CLIcK benchmark comprises two broad categories: Culture and Language, which are further divided into 11 fine-grained subcategories.
@@ -89,7 +90,7 @@ The dataset is organized as follows, with each subcategory containing relevant J
 
 ## Dataset Link 🔗
 
-The CLIcK dataset is available on the Hugging Face Hub: [CLIcK Dataset](https://huggingface.co/datasets/your_username/CLIcK)
+The CLIcK dataset is available on the Hugging Face Hub: [CLIcK Dataset](https://huggingface.co/datasets/EunsuKim/CLIcK)
 
 
 ## Citation 📝
