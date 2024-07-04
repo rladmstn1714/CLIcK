@@ -1,6 +1,6 @@
 <div align="center">
   <h1>CLIcK 🇰🇷🧠</h1>
-  <p>Evaluation of Cultural and Linguistic Intelligence in Korean</p>
+  <p>CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in Korean</p>
   <p>
     <a href="https://huggingface.co/datasets/EunsuKim/CLIcK"><img src="https://img.shields.io/badge/Dataset-CLIcK-blue" alt="Dataset"></a>
     <a href="https://arxiv.org/abs/2403.06412"><img src="https://img.shields.io/badge/Paper-LREC--COLING-green" alt="Paper"></a>
